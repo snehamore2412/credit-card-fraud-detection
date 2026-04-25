@@ -30,3 +30,6 @@ This project demonstrates how machine learning can strengthen fraud prevention s
 - Dataset
 - Visualizations
 - Project Documentation
+
+## Model Comparison
+![Model Comparison](model_comparison.png)
